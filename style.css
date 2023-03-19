@@ -529,6 +529,22 @@ h5:hover{
   margin-bottom:3rem;
 }
 
+.social{
+  text-decoration:none;
+}
+
+.social:visited{
+  text-decoration:none;
+}
+
+.social:hover{
+  text-decoration:none;
+}
+
+.social:active{
+  text-decoration:none;
+}
+
 #social-links-header{
   margin-top:3rem;
   text-align:center;
