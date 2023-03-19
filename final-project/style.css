@@ -396,7 +396,7 @@ p{
 }
 
 .screen > .screen-image {
-  background-image: url("../images/test.png");
+  background-image: url("images/portrait.png");
   height: 100%;
   width: 100%;
   z-index: 1;
